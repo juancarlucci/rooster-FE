@@ -175,7 +175,7 @@ nav {
   height: 60px; }
 
 .nav-image {
-  background-image: url("./images/igniter-logo-white.png");
+  background-image: url("../images/igniter-logo-white.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
