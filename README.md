@@ -2,7 +2,7 @@
 
 ###Translating comps and wireframes into flexible and reusable code
 
-[Live demo](https://juancarlucci.github.io/rooster/)
+[Live demo](https://juancarlucci.github.io/rooster-FE/)
 
 ## Process/approach:
 
