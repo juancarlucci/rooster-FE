@@ -21,7 +21,7 @@ class Header extends Component {
           <div className="carousel-inner">
             <div className="carousel-item active">
               <div className="overlay"></div>
-              <img className="d-block w-100" src="/images/hero-img.jpg" alt="First slide" />
+              <img className="d-block w-100" src="./images/hero-img.jpg" alt="First slide" />
               <div className="carousel-caption">
                   <div>
                       <h3 className="animated fadeInDown hero-text">Lorem Ipsum Lorem Ipsum</h3>
@@ -30,30 +30,30 @@ class Header extends Component {
 
               </div>
               <button type="button" className="envelope-wrap" data-toggle="modal" data-target="#myModal">
-                <img className="envelope-icon" src="/images/envelope2.svg" alt="envelope icon"/>
+                <img className="envelope-icon" src="./images/envelope2.svg" alt="envelope icon"/>
               </button>
             </div>
             <div className="carousel-item">
               <div className="overlay"></div>
-              <img className="d-block w-100" src="/images/hero2b.jpg" alt="Second slide" />
+              <img className="d-block w-100" src="./images/hero2b.jpg" alt="Second slide" />
               <div className="carousel-caption">
                     <h3 className="animated fadeInDown hero-text">Lorem Ipsum Lorem Ipsum</h3>
                     <a href="#data"><button className="pull-left" type="button">Button</button></a>
               </div>
 
               <button type="button" className="envelope-wrap" data-toggle="modal" data-target="#myModal">
-                <img className="envelope-icon" src="/images/envelope2.svg" alt="envelope icon"/>
+                <img className="envelope-icon" src="./images/envelope2.svg" alt="envelope icon"/>
               </button>
             </div>
             <div className="carousel-item">
               <div className="overlay"></div>
-              <img className="d-block w-100" src="/images/hero3b.jpg" alt="Third slide" />
+              <img className="d-block w-100" src="./images/hero3b.jpg" alt="Third slide" />
               <div className="carousel-caption">
                     <h3 className="animated fadeInDown hero-text">Lorem Ipsum Lorem Ipsum</h3>
                     <a href="#data"><button className="pull-left" type="button">Button</button></a>
               </div>
               <button type="button" className="envelope-wrap" data-toggle="modal" data-target="#myModal">
-                <img className="envelope-icon" src="/images/envelope2.svg" alt="envelope icon"/>
+                <img className="envelope-icon" src="./images/envelope2.svg" alt="envelope icon"/>
               </button>
             </div>
           </div>
