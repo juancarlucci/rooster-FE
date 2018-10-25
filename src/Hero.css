@@ -50,7 +50,6 @@
   z-index: 10; }
 
 .envelope-icon {
-  background-image: url("../images/envelope2.svg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;

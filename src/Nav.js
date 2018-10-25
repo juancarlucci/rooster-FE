@@ -6,7 +6,7 @@ class Nav extends Component {
   render() {
     return (
       <nav className="LiftIgniter">
-        <div className="nav-image"></div>
+        <img className="nav-image" src="./images/igniter-logo-white.png" alt="LiftIgniter" />
       </nav>
     );
   }
