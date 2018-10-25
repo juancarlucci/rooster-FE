@@ -175,9 +175,8 @@ nav {
   height: 60px; }
 
 .nav-image {
+  display: flex;
   height: 50px;
   width: 175px;
   margin: auto;
   margin-top: 4px; }
-
-/*# sourceMappingURL=Nav.css.map */
