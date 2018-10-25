@@ -1,7 +1,7 @@
 {
   "main.css": "/rooster-FE/static/css/main.8ff8652e.chunk.css",
-  "main.js": "/rooster-FE/static/js/main.0d6e7eee.chunk.js",
-  "main.js.map": "/rooster-FE/static/js/main.0d6e7eee.chunk.js.map",
+  "main.js": "/rooster-FE/static/js/main.2b8442f0.chunk.js",
+  "main.js.map": "/rooster-FE/static/js/main.2b8442f0.chunk.js.map",
   "static/css/1.9dd2eeed.chunk.css": "/rooster-FE/static/css/1.9dd2eeed.chunk.css",
   "static/js/1.d1d641d7.chunk.js": "/rooster-FE/static/js/1.d1d641d7.chunk.js",
   "static/js/1.d1d641d7.chunk.js.map": "/rooster-FE/static/js/1.d1d641d7.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.9dd2eeed.chunk.css.map": "/rooster-FE/static/css/1.9dd2eeed.chunk.css.map",
   "static/css/main.8ff8652e.chunk.css.map": "/rooster-FE/static/css/main.8ff8652e.chunk.css.map",
   "index.html": "/rooster-FE/index.html",
-  "precache-manifest.10e3c267b1bb613af558edfc2e895b8e.js": "/rooster-FE/precache-manifest.10e3c267b1bb613af558edfc2e895b8e.js",
+  "precache-manifest.810bf12a555dd47d4610c2c78e2cbb76.js": "/rooster-FE/precache-manifest.810bf12a555dd47d4610c2c78e2cbb76.js",
   "service-worker.js": "/rooster-FE/service-worker.js"
 }

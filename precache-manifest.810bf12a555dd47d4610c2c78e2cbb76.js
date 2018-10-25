@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/rooster-FE/static/js/runtime~main.2277e277.js"
   },
   {
-    "revision": "0d6e7eeef9f831952373",
-    "url": "/rooster-FE/static/js/main.0d6e7eee.chunk.js"
+    "revision": "2b8442f004ac7594f11b",
+    "url": "/rooster-FE/static/js/main.2b8442f0.chunk.js"
   },
   {
     "revision": "d1d641d793cf70f476e8",
     "url": "/rooster-FE/static/js/1.d1d641d7.chunk.js"
   },
   {
-    "revision": "0d6e7eeef9f831952373",
+    "revision": "2b8442f004ac7594f11b",
     "url": "/rooster-FE/static/css/main.8ff8652e.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rooster-FE/static/css/1.9dd2eeed.chunk.css"
   },
   {
-    "revision": "1bee09eca076fc22f559cbb925458fe5",
+    "revision": "42d2e1b05745ac68466cbcdd3d65c434",
     "url": "/rooster-FE/index.html"
   }
 ];
