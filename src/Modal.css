@@ -1,0 +1,19 @@
+.modal-content-clean {
+  background-color: none;
+  border: none;
+  color: white;
+  display: block; }
+
+.modal-header-clean {
+  color: white;
+  border-bottom: none;
+  display: flex;
+  justify-content: center; }
+  .modal-header-clean .header3 {
+    text-transform: uppercase; }
+
+.centered {
+  text-align: center;
+  margin: auto; }
+
+/*# sourceMappingURL=Modal.css.map */
