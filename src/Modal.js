@@ -16,14 +16,18 @@ class Modal extends Component {
 
 			</div>
 			<div className="modal-body">
-                <form action="/actions/confirmation.php" method="post">
+                <form action="" method="">
                     <div className="form-group col-full">
                         <label for="inputName">Name</label>
                         <input type="text" className="form-control" id="inputName" required />
                     </div>
-                    <div className="form-group col-full">
+                    <div className="form-group col-half">
                         <label for="inputEmail">Email</label>
                         <input type="email" className="form-control" id="inputEmail" required />
+                    </div>
+                    <div className="form-group col-half">
+                        <label for="inputEmail">Phone Number</label>
+                        <input type="tel" className="form-control" id="inputPhone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required />
                     </div>
                     <div className="form-group col-full">
                         <label for="inputMessage">Message</label>
