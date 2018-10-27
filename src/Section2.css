@@ -70,6 +70,10 @@
 	.page-item2 {
 		margin: 0px 0px 0px 1.25em;
 	}
+  #percent-button {
+    width: 100%
+  }
+
   .lorem {
     width: auto
   }
