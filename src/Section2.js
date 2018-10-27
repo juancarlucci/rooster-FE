@@ -3,6 +3,7 @@ import './Section2.css';
 import './style.css';
 
 import posed from 'react-pose';
+import ScrollAnimation from 'react-animate-on-scroll';
 
 import SplitText from 'react-pose-text';
 
@@ -33,10 +34,11 @@ class Section2 extends Component {
           <p className="page-item2 lorem gray" id="gray-ipsum-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             <a href="#data"><button type="button">Button</button></a>
         </section>
+        <ScrollAnimation animateIn="fadeIn">
         <section className="grid2" id="percents-section">
           <div className="item2">
             <div className="container">
-              <SplitText className="lorem159" initialPose="exit" pose="enter" charPoses={charPoses}>
+              <SplitText className="lorem159 animated rubberBand delay-1s" initialPose="exit" pose="enter" charPoses={charPoses}>
                 240%
               </SplitText>
             </div>
@@ -45,7 +47,7 @@ class Section2 extends Component {
           </div>
           <div className="item2">
             <div className="container">
-              <SplitText className="lorem159" initialPose="exit" pose="enter" charPoses={charPoses}>
+              <SplitText className="lorem159 animated rubberBand delay-2s" initialPose="exit" pose="enter" charPoses={charPoses}>
                 105%
               </SplitText>
             </div>
@@ -53,7 +55,7 @@ class Section2 extends Component {
           </div>
           <div className="item2">
             <div className="container">
-              <SplitText className="lorem159" initialPose="exit" pose="enter" charPoses={charPoses}>
+              <SplitText className="lorem159 animated rubberBand delay-3s" initialPose="exit" pose="enter" charPoses={charPoses}>
                 159%
               </SplitText>
             </div>
@@ -61,6 +63,7 @@ class Section2 extends Component {
           </div>
 
         </section>
+      </ScrollAnimation>
       </article>
     );
   }
