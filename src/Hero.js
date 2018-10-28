@@ -3,6 +3,8 @@ import './Hero.css';
 import Modal from './Modal';
 import './style.css';
 
+
+
 class Header extends Component {
   render() {
     return (
