@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/rooster-FE/static/js/runtime~main.2277e277.js"
   },
   {
-    "revision": "b003a78c85268adf4edc",
-    "url": "/rooster-FE/static/js/main.b003a78c.chunk.js"
+    "revision": "cf732a4ecee2698dcb6e",
+    "url": "/rooster-FE/static/js/main.cf732a4e.chunk.js"
   },
   {
     "revision": "a075e90134fee0829349",
     "url": "/rooster-FE/static/js/1.a075e901.chunk.js"
   },
   {
-    "revision": "b003a78c85268adf4edc",
-    "url": "/rooster-FE/static/css/main.d897b2d0.chunk.css"
+    "revision": "cf732a4ecee2698dcb6e",
+    "url": "/rooster-FE/static/css/main.70d8ba42.chunk.css"
   },
   {
     "revision": "a075e90134fee0829349",
     "url": "/rooster-FE/static/css/1.f5e7c892.chunk.css"
   },
   {
-    "revision": "bf1271de9ab31e857e313fce22477b1b",
+    "revision": "48821aad2bf21e944297c4fab0fb5f75",
     "url": "/rooster-FE/index.html"
   }
 ];
